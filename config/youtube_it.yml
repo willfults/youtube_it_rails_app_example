@@ -1,7 +1,7 @@
 common: &common
-  dev_key: your dev key
-  username:  your username
-  password:  your passwd
+  dev_key: "AI39si76nc4D7Q6IX9PZW5fJhMaHXkckz79jCpJpu4geaXtKR7tk9S25S6txUrlaCLnaMsGwpCG-FLUQ_T6oO2AthTlnaXK4Qg"
+  username:  "socialu44@gmail.com"
+  password:  'c4llsource'
   
 test:
   <<: *common
